@@ -3,8 +3,8 @@
 Games
 ---
 
-* **[Magic Square](https://papaproger.github.io/magicsquare/ "Enjoy your adventure!")** - move the square over the grid
-* **[Match The Tiles](https://papaproger.github.io/matchthetiles/ "Make your brain work!")** - match the numbers in pairs
+* **[Magic Square](https://github.com/papaproger/magicsquare)** - [move](https://papaproger.github.io/magicsquare/ "Enjoy your adventure!") the square over the grid
+* **[Match The Tiles](https://github.com/papaproger/matchthetiles)** - [match](https://papaproger.github.io/matchthetiles/ "Make your brain work!") the numbers in pairs
 
 Stuff
 ---
