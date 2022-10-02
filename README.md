@@ -22,6 +22,18 @@ Games
     </tr>
 </table>
 
+Apps
+---
+
+<table>
+    <tr>
+        <td><a href="https://papaproger.github.io/activitytable/"><img src="activitytable.jpg" alt="Activity Table" title="Have a go!" /></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/papaproger/activitytable"><b>Activity Table</b></a> - change your life for the better!</td>
+    </tr>
+</table>
+
 Stuff
 ---
 
