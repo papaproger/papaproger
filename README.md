@@ -1,7 +1,8 @@
-# might be fun
+<h1 align="center">
+    <a href="#1">𝕲𝖆𝖒𝖊𝖘</a> &bull; <a href="#2">𝕬𝖕𝖕𝖘</a> &bull; <a href="#3">𝕾𝖙𝖚𝖋𝖋</a> &bull; <a href="#4">𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖘</a>
+</h1>
 
-Games
----
+## <a id="1">Games</a>
 
 <table>
     <tr>
@@ -22,8 +23,7 @@ Games
     </tr>
 </table>
 
-Apps
----
+## <a id="2">Apps</a>
 
 <table>
     <tr>
@@ -34,7 +34,12 @@ Apps
     </tr>
 </table>
 
-Stuff
----
+## <a id="3">Stuff</a>
 
 * **[RuPhoneNumX](https://github.com/papaproger/RuPhoneNumX)** - calculation of the number of your phone number
+
+## <a id="4">Contacts</a>
+
+[![Blessed LinkedIn](https://img.shields.io/badge/blessed&bull;linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+
+[LinkedIn]: https://www.linkedin.com/in/papaproger/
