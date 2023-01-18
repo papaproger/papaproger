@@ -1,8 +1,8 @@
 <h1 align="center">
-    <a href="#1">𝕲𝖆𝖒𝖊𝖘</a> &bull; <a href="#2">𝕬𝖕𝖕𝖘</a> &bull; <a href="#3">𝕾𝖙𝖚𝖋𝖋</a> &bull; <a href="#4">𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖘</a>
+    <a id="1"></a><a href="#1">𝕲𝖆𝖒𝖊𝖘</a> &bull; <a href="#2">𝕬𝖕𝖕𝖘</a> &bull; <a href="#3">𝕾𝖙𝖚𝖋𝖋</a> &bull; <a href="#4">𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖘</a>
 </h1>
 
-## <a id="1">Games</a>
+## Games
 
 <table>
     <tr>
@@ -23,7 +23,18 @@
     </tr>
 </table>
 
-## <a id="2">Apps</a>
+<table>
+    <tr>
+        <td>
+            <a id="2"></a>
+            <a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/react-%230056D2.svg?style=for-the-badge" alt="react" title="Go to react topic" /></a>
+            <a href="https://github.com/topics/game"><img src="https://img.shields.io/badge/game-%230056D2.svg?style=for-the-badge" alt="game" title="Go to game topic" /></a>
+            <a href="https://github.com/topics/games"><img src="https://img.shields.io/badge/games-%230056D2.svg?style=for-the-badge" alt="games" title="Go to games topic" /></a>
+        </td>
+    </tr>
+</table>
+
+## Apps
 
 <table>
     <tr>
@@ -34,12 +45,39 @@
     </tr>
 </table>
 
-## <a id="3">Stuff</a>
+<table>
+    <tr>
+        <td>
+            <a id="3"></a>
+            <a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/react-%230056D2.svg?style=for-the-badge" alt="react" title="Go to react topic" /></a>
+            <a href="https://github.com/topics/app"><img src="https://img.shields.io/badge/app-%230056D2.svg?style=for-the-badge" alt="app" title="Go to app topic" /></a>
+            <a href="https://github.com/topics/apps"><img src="https://img.shields.io/badge/apps-%230056D2.svg?style=for-the-badge" alt="apps" title="Go to apps topic" /></a>
+            <a href="https://github.com/topics/activitytable"><img src="https://img.shields.io/badge/activitytable-%230056D2.svg?style=for-the-badge" alt="activitytable" title="Go to activitytable topic" /></a>
+        </td>
+    </tr>
+</table>
+
+## Stuff
 
 * **[RuPhoneNumX](https://github.com/papaproger/RuPhoneNumX)** - calculation of the number of your phone number
 
-## <a id="4">Contacts</a>
+<table>
+    <tr>
+        <td>
+            <a id="4"></a>
+            <a href="https://github.com/topics/csharp"><img src="https://img.shields.io/badge/csharp-%230056D2.svg?style=for-the-badge" alt="csharp" title="Go to csharp topic" /></a>
+            <a href="https://github.com/topics/phone"><img src="https://img.shields.io/badge/phone-%230056D2.svg?style=for-the-badge" alt="phone" title="Go to phone topic" /></a>
+            <a href="https://github.com/topics/phonenumber"><img src="https://img.shields.io/badge/phonenumber-%230056D2.svg?style=for-the-badge" alt="phonenumber" title="Go to phonenumber topic" /></a>
+        </td>
+    </tr>
+</table>
 
-[![Blessed LinkedIn](https://img.shields.io/badge/blessed&bull;linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+## Contacts
 
-[LinkedIn]: https://www.linkedin.com/in/papaproger/
+<table>
+    <tr>
+        <td>
+            <a href="https://www.linkedin.com/in/papaproger/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Gonna make contact with a great boy" /></a>
+        </td>
+    </tr>
+</table>
