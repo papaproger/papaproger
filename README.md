@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#1">Games</a> &bull; <a href="#2">Apps</a> &bull; <a href="#3">Widgets</a> &bull; <a href="#4">Stuff</a><a id="1"></a>
+    <a href="#1"><b>Games</b></a> &bull; <a href="#2"><b>Apps</b></a> &bull; <a href="#3"><b>Widgets</b></a> &bull; <a href="#4"><b>Stuff</b></a><a id="1"></a>
 </h1>
 
 ## Games
