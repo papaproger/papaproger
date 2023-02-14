@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#1">𝕲𝖆𝖒𝖊𝖘</a> &bull; <a href="#2">𝕬𝖕𝖕𝖘</a> &bull; <a href="#3">𝖂𝖎𝖉𝖌𝖊𝖙𝖘</a> &bull; <a href="#4">𝕾𝖙𝖚𝖋𝖋</a> &bull; <a href="#5">𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖘</a><a id="1"></a>
+    <a href="#1">Games</a> &bull; <a href="#2">Apps</a> &bull; <a href="#3">Widgets</a> &bull; <a href="#4">Stuff</a><a id="1"></a>
 </h1>
 
 ## Games
@@ -93,17 +93,6 @@
             <a href="https://github.com/topics/csharp"><img src="https://img.shields.io/badge/csharp-242424?style=for-the-badge" alt="csharp" title="Go to csharp topic" /></a>
             <a href="https://github.com/topics/phone"><img src="https://img.shields.io/badge/phone-242424?style=for-the-badge" alt="phone" title="Go to phone topic" /></a>
             <a href="https://github.com/topics/phonenumber"><img src="https://img.shields.io/badge/phonenumber-242424?style=for-the-badge" alt="phonenumber" title="Go to phonenumber topic" /></a>
-            <a id="5"></a>
-        </td>
-    </tr>
-</table>
-
-## Contacts
-
-<table>
-    <tr>
-        <td>
-            <a href="https://www.linkedin.com/in/papaproger/"><img src="https://img.shields.io/badge/linkedin-242424?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Gonna make contact with a great boy" /></a>
         </td>
     </tr>
 </table>
