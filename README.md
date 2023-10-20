@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#1"><b>Games</b></a> &bull; <a href="#2"><b>Apps</b></a> &bull; <a href="#3"><b>Widgets</b></a> &bull; <a href="#4"><b>Stuff</b></a><a id="1"></a>
+    <a href="#1"><b>Games</b></a> &bull; <a href="#2"><b>Apps</b></a> &bull; <a href="#3"><b>Widgets</b></a> &bull; <a href="#4"><b>JS</b></a> &bull; <a href="#5"><b>Stuff</b></a><a id="1"></a>
 </h1>
 
 ## Games
@@ -79,6 +79,30 @@
             <a href="https://github.com/topics/clock"><img src="https://img.shields.io/badge/clock-242424?style=for-the-badge" alt="clock" title="Go to clock topic" /></a>
             <a href="https://github.com/topics/animatedclock"><img src="https://img.shields.io/badge/animatedclock-242424?style=for-the-badge" alt="animatedclock" title="Go to animatedclock topic" /></a>
             <a id="4"></a>
+        </td>
+    </tr>
+</table>
+
+## JS
+
+```javascript
+// What is theKey?
+
+const theNumber = 0b0000_000110_111101_101110_001010_011110_110001_110111_001110_000001
+const theKey = 2
+
+console.log(theNumber.toString(theKey))
+```
+
+* **[Fun JS Sketches](https://github.com/papaproger/fun-js-sketches)** - go over some topics!
+* **[Fun JS Tasks](https://github.com/papaproger/fun-js-tasks)** - check your skills!
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/topics/javascript"><img src="https://img.shields.io/badge/javascript-242424?style=for-the-badge" alt="javascript" title="Go to javascript topic" /></a>
+            <a href="https://github.com/topics/js"><img src="https://img.shields.io/badge/js-242424?style=for-the-badge" alt="js" title="Go to js topic" /></a>
+            <a id="5"></a>
         </td>
     </tr>
 </table>
