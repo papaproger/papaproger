@@ -1,8 +1,8 @@
 <h1 align="center">
-    <a href="#1"><b>Games</b></a> &bull; <a href="#2"><b>Apps</b></a> &bull; <a href="#3"><b>Widgets</b></a> &bull; <a href="#4"><b>JS</b></a> &bull; <a href="#5"><b>Stuff</b></a><a id="1"></a>
+    <a href="#1"><b>𝐆𝐚𝐦𝐞𝐬</b></a> &bull; <a href="#2"><b>𝐀𝐩𝐩𝐬</b></a> &bull; <a href="#3"><b>𝐖𝐢𝐝𝐠𝐞𝐭𝐬</b></a> &bull; <a href="#4"><b>𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭</b></a> &bull; <a href="#5"><b>𝐒𝐭𝐮𝐟𝐟</b></a><a id="1"></a>
 </h1>
 
-## Games
+## 𝐆𝐚𝐦𝐞𝐬
 
 <table>
     <tr>
@@ -34,7 +34,7 @@
     </tr>
 </table>
 
-## Apps
+## 𝐀𝐩𝐩𝐬
 
 <table>
     <tr>
@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-## Widgets
+## 𝐖𝐢𝐝𝐠𝐞𝐭𝐬
 
 <table>
     <tr>
@@ -83,7 +83,11 @@
     </tr>
 </table>
 
-## JS
+## 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+<h1 align="center">
+    <a href="https://github.com/papaproger/fun-js-sketches"><b>𝐅𝐮𝐧 𝐉𝐒 𝐒𝐤𝐞𝐭𝐜𝐡𝐞𝐬</b></a> &bull; <a href="https://github.com/papaproger/fun-js-tasks"><b>𝐅𝐮𝐧 𝐉𝐒 𝐓𝐚𝐬𝐤𝐬</b></a>
+</h1>
 
 ```javascript
 // What is theKey?
@@ -93,9 +97,6 @@ const theKey = 2
 
 console.log(theNumber.toString(theKey))
 ```
-
-* **[Fun JS Sketches](https://github.com/papaproger/fun-js-sketches)** - go over some topics!
-* **[Fun JS Tasks](https://github.com/papaproger/fun-js-tasks)** - check your skills!
 
 <table>
     <tr>
@@ -107,9 +108,9 @@ console.log(theNumber.toString(theKey))
     </tr>
 </table>
 
-## Stuff
+## 𝐒𝐭𝐮𝐟𝐟
 
-* **[RuPhoneNumX](https://github.com/papaproger/RuPhoneNumX)** - calculation of the number of your phone number
+**[RuPhoneNumX](https://github.com/papaproger/RuPhoneNumX)** - calculation of the number of your phone number
 
 <table>
     <tr>
