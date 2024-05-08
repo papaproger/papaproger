@@ -52,7 +52,7 @@
             <a href="https://github.com/topics/app"><img src="https://img.shields.io/badge/app-242424?style=for-the-badge" alt="app" title="Go to app topic" /></a>
             <a href="https://github.com/topics/apps"><img src="https://img.shields.io/badge/apps-242424?style=for-the-badge" alt="apps" title="Go to apps topic" /></a>
             <a href="https://github.com/topics/activitytable"><img src="https://img.shields.io/badge/activitytable-242424?style=for-the-badge" alt="activitytable" title="Go to activitytable topic" /></a>
-            <a href="https://github.com/topics/demo"><img src="https://img.shields.io/badge/demo-AD1F1F?style=for-the-badge" alt="demo" title="Go to demo topic" /></a>
+            <a href="https://github.com/topics/demo"><img src="https://img.shields.io/badge/demo-1E7DAF?style=for-the-badge" alt="demo" title="Go to demo topic" /></a>
             <a id="3"></a>
         </td>
     </tr>
@@ -86,7 +86,7 @@
 ## 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
 
 <h1 align="center">
-    <a href="https://github.com/papaproger/fun-js-sketches"><b>𝐅𝐮𝐧 𝐉𝐒 𝐒𝐤𝐞𝐭𝐜𝐡𝐞𝐬</b></a> &bull; <a href="https://github.com/papaproger/fun-js-tasks"><b>𝐅𝐮𝐧 𝐉𝐒 𝐓𝐚𝐬𝐤𝐬</b></a>
+    <a href="https://github.com/papaproger/fun-js-sketches" title="Go to repo"><b>𝐅𝐮𝐧 𝐉𝐒 𝐒𝐤𝐞𝐭𝐜𝐡𝐞𝐬</b></a> &bull; <a href="https://github.com/papaproger/fun-js-tasks" title="Go to repo"><b>𝐅𝐮𝐧 𝐉𝐒 𝐓𝐚𝐬𝐤𝐬</b></a>
 </h1>
 
 ```javascript
